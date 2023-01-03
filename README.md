@@ -10,4 +10,6 @@ Text save file will by written in output.save, which you will need to rename acc
 
 Then boot up the game, load the image, and it should be cleared, easy steam achievement.    
 
-repository is shipped with image and save data for the first image of the r/place book.
+repository is shipped with image and save data for the first image of the r/place book.  
+
+Require NodeJs 15.0.0+.
