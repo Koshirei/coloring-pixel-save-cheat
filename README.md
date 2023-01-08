@@ -6,7 +6,7 @@ Use AssetStudio by Perfare https://github.com/Perfare/AssetStudio to retrieve th
 
 Launch the script with ```node index.js path2image```    
 
-Text save file will by written in output.save, which you will need to rename according to it's true name, found in appdata/toastielab/ to update.    
+Save files will by written in output.save, which you will need to rename according to it's true name, found in appdata/ToastieLabs/ColoringPixels/<pack name>, and drop into the adequate folder.    
 
 Then boot up the game, load the image, and it should be cleared, easy steam achievement.    
 
